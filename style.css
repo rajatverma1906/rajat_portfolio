@@ -1689,6 +1689,7 @@ footer {
     }
 
     .image-container {
+        margin-top: -80px;
         width: 100%;
     }
 
